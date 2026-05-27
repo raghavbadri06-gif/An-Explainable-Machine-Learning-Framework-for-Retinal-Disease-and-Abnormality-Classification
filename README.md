@@ -9,8 +9,14 @@ This study aims to identify retinal diseases and abnormalities at an early stage
 Among these, SVM showed the most consistent performance after addressing class imbalance using the **Synthetic Minority Oversampling Technique (SMOTE)**, achieving **96.80% accuracy** in identifying diseased eyes when trained and tested on the proposed feature set.
 
 Additionally, a deep learning comparison is provided using **ResNet50**, and **SHAP (SHapley Additive exPlanations)** is used to identify the most influential features for clinical interpretability.
+## Dataset Availability
+
+The data used in this study were acquired from an open-source repository known as Kaggle, such as the Ocular Disease Intelligent Recognition (ODIR) and Joint Shantou International Eye Centre (JSIEC) dataset, whose respective links are given below:
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k?resource=download; 
+https://www.kaggle.com/datasets/linchundan/fundusimage1000/data 
 
 ---
+
 
 ## Key Features
 
