@@ -92,7 +92,6 @@ The experiments were conducted using a dual-platform approach to leverage the st
 - **Deep Learning Frameworks:** PyTorch / TensorFlow (CUDA-accelerated)
 - **Purpose:**
   - ResNet50 implementation and evaluation
-  - SHAP analysis for feature interpretability
 - **Advantage:** Access to state-of-the-art DL frameworks with powerful GPU acceleration and the code can be completed within a short span of time.
 
 ### Data Transfer Between Environments
